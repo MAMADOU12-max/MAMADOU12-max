@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/Diouf_modou12" target="blank"><img src="https://img.shields.io/twitter/follow/Diouf_modou12?style=social" alt="Diouf_modou12" /></a> </p>
 
-- 📄 I am an student at **Orange Digital Center****
+- 📄 I am an student at **Orange Digital Center**
 
 - 🔭 I’m currently working on **My own Projects that you can find in my **Repository****
 
