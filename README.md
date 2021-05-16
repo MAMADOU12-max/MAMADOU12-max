@@ -31,7 +31,7 @@
 <a href="https://wa.link/562qaj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Modou_Diouf" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Framework and Tools:</h3>
 <p align="left">
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -53,8 +53,9 @@
 <br/>
 
 <img align="left" alt="Ionic" width="40" height="40" src="https://pbs.twimg.com/profile_images/1148952014036054016/xxv7lLvp_400x400.jpg" />
+<img align="left" alt="Flutter" width="40" height="40" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />
 
-
+<br/>
   <img align="left" alt="GitHub" width="40" height="40"    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" alt="Terminal" width="40" height="40"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
