@@ -52,7 +52,8 @@
 <img align="left" alt="Angular" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 <br/>
 
-test
+<img align="left" alt="Ionic" width="40" height="40" src="https://pbs.twimg.com/profile_images/1148952014036054016/xxv7lLvp_400x400.jpg" />
+
 
   <img align="left" alt="GitHub" width="40" height="40"    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" alt="Terminal" width="40" height="40"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
