@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm DioufCodeur</h1>
-<h3 align="center">curious and passionate about programming from Senegal 👨‍💻</h3>
+<h3 align="center">curious and passionated about programming from Senegal 👨‍💻</h3>
 <h4 align="center">Full Stack Developer</h4>
 
 <p align="left"> <img src="https://img.shields.io/github/followers/MAMADOU12-max?style=social" alt="MAMADOU12-max"/> </p>
