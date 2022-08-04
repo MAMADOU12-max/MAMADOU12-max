@@ -48,7 +48,7 @@
 
   <img align="left" alt="Flutter" width="40" height="40" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />
   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLl62G1M4CQzMFBaBCH0kZ58_sJmncxOJw7Q&usqp=CAU" alt="bootstrap" width="40" height="40"/>
 </a> 
 
 <br/> <br/>
