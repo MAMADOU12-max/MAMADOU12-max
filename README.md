@@ -43,12 +43,9 @@
 </a>
 <br>
 <a href="" target="_blank">
-  
   <img align="left" alt="Angular" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px- Angular_full_color_logo.svg.png" />
 
   <img align="left" alt="Flutter" width="40" height="40" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />
-  
-    <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLl62G1M4CQzMFBaBCH0kZ58_sJmncxOJw7Q&usqp=CAU" alt="bootstrap" width="40" height="40"/>
 </a> 
 
 <br/> <br/>
