@@ -38,9 +38,8 @@
 <a> <img align="left" alt="Terminal" width="40" height="40" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" /></a>
 <br>
 <a href="" target="_blank">
-  <img align="left" alt="Angular" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px- Angular_full_color_logo.svg.png" />
-
-  <img align="left" alt="Flutter" width="40" height="40" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />
+<img align="left" alt="Angular" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px- Angular_full_color_logo.svg.png" />
+<img align="left" alt="Flutter" width="40" height="40" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />
 </a> 
 
 <br/> <br/>
