@@ -7,7 +7,7 @@
 
 - 📄 I am a junior developer | **Motivate by what I ignore**
 
-- 🔭 I’m currently working as a **Front-end and mobile developer**
+- 🔭 I’m currently working as a **Front-end & mobile developer**
 
 - 🤝 I'm also working on ***Open source & service delivery projects***
 
