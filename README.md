@@ -35,9 +35,8 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
-<a>
-  <img align="left" alt="Terminal" width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGETadbdi2nEm4wlORlJ4vrMkV6YKcNn0fg&usqp=CAU" />
-</a>
+<a> <img align="left" alt="Terminal" width="50" height="50" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" /></a>
+  
 <br>
 <a href="" target="_blank">
   <img align="left" alt="Angular" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px- Angular_full_color_logo.svg.png" />
