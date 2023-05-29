@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://img.shields.io/github/followers/MAMADOU12-max?style=social" alt="MAMADOU12-max"/> </p>
 
-/*dddd*/<p align="left"> <a href="https://twitter.com/Diouf_modou12" target="blank"><img src="https://img.shields.io/twitter/follow/Diouf_modou12?style=social" alt="Diouf_modou12" /></a> </p>
+//dddd*/<p align="left"> <a href="https://twitter.com/Diouf_modou12" target="blank"><img src="https://img.shields.io/twitter/follow/Diouf_modou12?style=social" alt="Diouf_modou12" /></a> </p>
 
 - 📄 I am a junior developer | **Motivate by what I ignore**
 
