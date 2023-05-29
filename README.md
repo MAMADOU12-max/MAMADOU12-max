@@ -24,7 +24,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Diouf_modou12" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/langfr-800px-Twitter_Bird.svg.png" alt="Diouf_modou12" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mamadou-diouf-852bb21a1/" target="blank"><img align="center" src="https://studenjoy.com/wp-content/uploads/2019/06/LinkedIn_HP-770x515.jpg" alt="mamadou-diouf" height="30" width="40" /></a>
 <a href="https://www.instagram.com/juuf_modou12/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" alt="juuf_modou12" height="30" width="40" /></a>
 <a href="https://wa.link/562qaj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Modou_Diouf" height="30" width="40" /></a>
