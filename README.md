@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/Diouf_modou12" target="blank"><img src="https://img.shields.io/twitter/follow/Diouf_modou12?style=social" alt="Diouf_modou12" /></a> </p>
 
-- 📄 I am a junior developer at **Livelearn**
+- 📄 I am a junior developer **Desire to Build the future**
 
 - 🔭 I’m currently working as a **Front-end and mobile developer**
 
