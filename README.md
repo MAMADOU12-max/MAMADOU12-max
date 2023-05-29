@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **Front-end and mobile developer**
 
-- 🤝 I'm also working on my study projects ***Open source & service delivery projects***
+- 🤝 I'm also working on ***Open source & service delivery projects***
 
 - 🌱 I’m currently learning **Angular, Flutter & Gsap**
 
