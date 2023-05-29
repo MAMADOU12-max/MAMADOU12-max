@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mamadou Diouf</h1>
 <h3 align="center">"Talk is cheap. Show me the code." - Linus Torvalds 👨‍💻</h3>
-<h4 align="center">Front-end and mobile Developer</h4>
+<h4 align="center">Front-end/mobile Developer</h4>
 
 <p align="left"> <img src="https://img.shields.io/github/followers/MAMADOU12-max?style=social" alt="MAMADOU12-max"/> </p>
 
