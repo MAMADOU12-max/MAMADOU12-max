@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/Diouf_modou12" target="blank"><img src="https://img.shields.io/twitter/follow/Diouf_modou12?style=social" alt="Diouf_modou12" /></a> </p>
 
-- 📄 I am a junior developer **Desire to Build the future**
+- 📄 I am a junior developer | **Motivate by what I ignore**
 
 - 🔭 I’m currently working as a **Front-end and mobile developer**
 
-- 🤝 I also work on my study projects ***Frontend & Backend Development***
+- 🤝 I'm also working on my study projects ***Open source & service delivery projects***
 
 - 🌱 I’m currently learning **Angular, Flutter & Gsap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MAMADOU12-max?tab=repositories](https://github.com/MAMADOU12-max?tab=repositories)
 
-- 💬 Ask me about **No ! Check out my Portfolio to know more -  **http://dioufcodeur.alwaysdata.net/** 
+- 💬 Ask me about **No ! Check out my Portfolio to know more -  **oops... coming soon** 
 
 - 📫 How to reach me **modoudiouf535@gmail.com**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mamadou-diouf-852bb21a1/" target="blank"><img align="center" src="https://studenjoy.com/wp-content/uploads/2019/06/LinkedIn_HP-770x515.jpg" alt="mamadou-diouf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mamadou-diouf-852bb21a1/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin-mamadou-diouf" height="30" width="40" /></a>
 <a href="https://www.instagram.com/juuf_modou12/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/langfr-220px-Instagram_logo_2016.svg.png" alt="juuf_modou12" height="30" width="40" /></a>
 <a href="https://wa.link/562qaj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Modou_Diouf" height="30" width="40" /></a>
 </p>
