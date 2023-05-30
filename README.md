@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://img.shields.io/github/followers/MAMADOU12-max?style=social" alt="MAMADOU12-max"/> </p>
 
 
-- 📄 I am a junior developer | **Motivate by what I ignore**
+- 📄 I am a software developer | **Motivate by what I ignore**
 
 - 🔭 I’m currently working as a **Front-end & mobile developer**
 
