@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mamadou Diouf</h1>
+<h1 align="center">Hi there 👋, I'm Mamadou Diouf 👨‍💻</h1>
 <h3 align="center">"Talk is cheap. Show me the code." - Linus Torvalds 👨‍💻</h3>
 <h4 align="center">Front-end & mobile Developer</h4>
 
